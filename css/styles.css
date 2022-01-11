@@ -1,0 +1,24 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.light-background {
+  background-color: pink;
+}
+
+.dark-background {
+  background-color: orangered;
+}
+
+.with-highlight {
+  /* border: solid slateblue 2px; */
+  color: blue;
+}
